@@ -6,7 +6,7 @@
 
 ## Bridge Overview
 
-The POA Bridge allows users to transfer assets between two chains in the Ethereum ecosystem. It is composed of several elements which are located in different POA Network repositories:
+The WOA Bridge allows users to transfer assets between two chains in the Ethereum ecosystem. It is composed of several elements which are located in different WOA Network repositories:
 
 **Bridge Elements**
 1. An oracle written in NodeJS, contained in this repository.
