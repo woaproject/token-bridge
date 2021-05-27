@@ -1,5 +1,5 @@
 
-# POA Bridge - NodeJS Oracle
+# WOA Bridge - NodeJS Oracle
 
 [![Build Status](https://travis-ci.org/poanetwork/bridge-nodejs.svg?branch=develop)](https://travis-ci.org/poanetwork/bridge-nodejs)
 [![Gitter](https://badges.gitter.im/poanetwork/poa-bridge.svg)](https://gitter.im/poanetwork/poa-bridge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
